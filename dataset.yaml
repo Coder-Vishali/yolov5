@@ -1,0 +1,6 @@
+train: /home/laiml/data/images/train
+val: /home/laiml/data/images/val
+test: /home/laiml/data/images/test
+
+nc: 4  # number of classes
+names: ['cat', 'dog', 'bird', 'cow']  # class names
